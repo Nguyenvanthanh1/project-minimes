@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AppGenealogySystem.csproj
+/appsettings.json
+/Migrations
+/.vs
+/Log/*.log
+/obj/
+/bin/
+/AppGenealogySystem.csproj.user
+/AppGenealogySystem.slnx
+/Resources/*
